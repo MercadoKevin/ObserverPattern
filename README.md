@@ -31,5 +31,5 @@ Constraints:
 The system should be scalable to handle a growing number of subscribers without compromising performance.
 Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
-#UML CLASS
+# UML CLASS
 ![88364e03-b2b6-43d7-afe4-6b640c71e50e](https://github.com/user-attachments/assets/e8cd2305-7828-47b6-9827-1dc465bf13a0)
